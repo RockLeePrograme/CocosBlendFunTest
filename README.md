@@ -1,0 +1,2 @@
+# CocosBlendFunTest
+这个项目用来测试cocos的混合模式
